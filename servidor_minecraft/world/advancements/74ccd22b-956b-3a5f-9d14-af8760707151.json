@@ -409,9 +409,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-11-27 22:57:04 +0000",
       "minecraft:skeleton": "2024-11-26 00:49:35 +0000",
       "minecraft:spider": "2024-11-26 00:40:02 +0000",
       "minecraft:creeper": "2024-11-26 00:40:10 +0000",
+      "minecraft:wither_skeleton": "2024-11-27 22:58:47 +0000",
       "minecraft:enderman": "2024-11-26 00:55:26 +0000",
       "minecraft:zombie": "2024-11-26 00:48:45 +0000"
     },
@@ -2134,8 +2136,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-11-27 22:58:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2024-11-27 23:04:29 +0000",
+      "minecraft:soul_sand_valley": "2024-11-27 23:01:29 +0000",
       "minecraft:basalt_deltas": "2024-11-27 22:54:53 +0000"
     },
     "done": false
@@ -2152,9 +2162,39 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-11-27 22:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-11-27 22:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-11-27 22:57:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2024-11-27 22:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-11-27 22:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-11-27 22:57:05 +0000"
     },
     "done": true
   },
