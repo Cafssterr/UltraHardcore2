@@ -826,3 +826,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Nov2024 21:15:18.121] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Cafssterr: {disabled=false, disconnected=false, uuid=74ccd22b-956b-3a5f-9d14-af8760707151, name=Cafssterr, group=2edefe88-e6a1-4793-8912-f092d1d2e185}
 [27Nov2024 21:15:19.370] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Cafssterr: {disabled=true, disconnected=false, uuid=74ccd22b-956b-3a5f-9d14-af8760707151, name=Cafssterr, group=2edefe88-e6a1-4793-8912-f092d1d2e185}
 [27Nov2024 21:15:19.773] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Cafssterr: {disabled=false, disconnected=false, uuid=74ccd22b-956b-3a5f-9d14-af8760707151, name=Cafssterr, group=2edefe88-e6a1-4793-8912-f092d1d2e185}
+[27Nov2024 21:17:21.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Nov2024 21:17:21.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Nov2024 21:17:36.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cafssterr: Set own game mode to Creative Mode]
+[27Nov2024 21:17:47.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cafssterr: Set own game mode to Survival Mode]
+[27Nov2024 21:18:53.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cafssterr: Set own game mode to Creative Mode]
+[27Nov2024 21:18:59.724] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Naannoo: {disabled=false, disconnected=false, uuid=a6c38398-c00e-3764-baa4-f29ee5a5fbf8, name=Naannoo, group=2edefe88-e6a1-4793-8912-f092d1d2e185}
+[27Nov2024 21:19:01.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cafssterr: Set own game mode to Survival Mode]
+[27Nov2024 21:22:21.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Nov2024 21:22:21.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Nov2024 21:23:54.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naannoo has made the advancement [Cover Me with Diamonds]
