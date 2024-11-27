@@ -89,3 +89,15 @@
 [27Nov2024 21:18:53.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cafssterr: Set own game mode to Creative Mode]
 [27Nov2024 21:19:01.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cafssterr: Set own game mode to Survival Mode]
 [27Nov2024 21:23:54.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naannoo has made the advancement [Cover Me with Diamonds]
+[27Nov2024 21:31:29.459] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cafssterr lost connection: Disconnected
+[27Nov2024 21:31:29.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cafssterr left the game
+[27Nov2024 21:31:29.475] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Cafssterr
+[27Nov2024 21:31:34.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cafssterr[/100.88.206.105:49835] logged in with entity id 11132 at (-384.0710041458784, 71.0, -701.8261836627165)
+[27Nov2024 21:31:34.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cafssterr joined the game
+[27Nov2024 21:31:34.366] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Cafssterr (18)
+[27Nov2024 21:31:34.373] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Cafssterr
+[27Nov2024 21:31:35.540] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 74ccd22b-956b-3a5f-9d14-af8760707151
+[27Nov2024 21:31:36.541] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 74ccd22b-956b-3a5f-9d14-af8760707151
+[27Nov2024 21:31:36.542] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Cafssterr (74ccd22b-956b-3a5f-9d14-af8760707151) successfully connected to voice chat
+[27Nov2024 21:32:00.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naannoo> entera en el grupo SAHFJF
+[27Nov2024 21:32:02.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naannoo> ae
