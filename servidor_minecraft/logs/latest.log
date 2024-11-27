@@ -101,3 +101,27 @@
 [27Nov2024 21:31:36.542] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Cafssterr (74ccd22b-956b-3a5f-9d14-af8760707151) successfully connected to voice chat
 [27Nov2024 21:32:00.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naannoo> entera en el grupo SAHFJF
 [27Nov2024 21:32:02.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naannoo> ae
+[27Nov2024 21:37:55.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cafssterr lost connection: Disconnected
+[27Nov2024 21:37:55.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cafssterr left the game
+[27Nov2024 21:37:55.798] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Cafssterr
+[27Nov2024 21:38:01.508] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cafssterr[/100.88.206.105:49871] logged in with entity id 12461 at (-371.4285374427171, 71.0, -714.2314841388865)
+[27Nov2024 21:38:01.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cafssterr joined the game
+[27Nov2024 21:38:01.729] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Cafssterr (18)
+[27Nov2024 21:38:01.730] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Cafssterr
+[27Nov2024 21:38:03.269] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 74ccd22b-956b-3a5f-9d14-af8760707151
+[27Nov2024 21:38:04.266] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 74ccd22b-956b-3a5f-9d14-af8760707151
+[27Nov2024 21:38:04.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Cafssterr (74ccd22b-956b-3a5f-9d14-af8760707151) successfully connected to voice chat
+[27Nov2024 21:40:33.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naannoo has made the advancement [A Seedy Place]
+[27Nov2024 21:42:42.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[27Nov2024 21:42:42.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Nov2024 21:42:42.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Nov2024 21:42:42.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naannoo lost connection: Server closed
+[27Nov2024 21:42:42.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naannoo left the game
+[27Nov2024 21:42:42.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Nov2024 21:42:42.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Nov2024 21:42:42.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Nov2024 21:42:42.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Nov2024 21:42:42.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Nov2024 21:42:42.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Nov2024 21:42:42.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Nov2024 21:42:42.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
