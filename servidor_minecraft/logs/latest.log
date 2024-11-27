@@ -73,3 +73,10 @@
 [27Nov2024 20:38:58.988] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 74ccd22b-956b-3a5f-9d14-af8760707151
 [27Nov2024 20:38:59.982] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 74ccd22b-956b-3a5f-9d14-af8760707151
 [27Nov2024 20:38:59.995] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Cafssterr (74ccd22b-956b-3a5f-9d14-af8760707151) successfully connected to voice chat
+[27Nov2024 20:46:37.938] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Naannoo[/100.120.244.93:50705] logged in with entity id 1280 at (-386.3082234101612, 71.0, -727.8688353263601)
+[27Nov2024 20:46:37.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naannoo joined the game
+[27Nov2024 20:46:39.255] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Naannoo (18)
+[27Nov2024 20:46:39.261] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Naannoo
+[27Nov2024 20:46:41.544] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
+[27Nov2024 20:46:42.597] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
+[27Nov2024 20:46:42.597] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Naannoo (a6c38398-c00e-3764-baa4-f29ee5a5fbf8) successfully connected to voice chat
