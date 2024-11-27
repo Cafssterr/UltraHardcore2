@@ -80,3 +80,6 @@
 [27Nov2024 20:46:41.544] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
 [27Nov2024 20:46:42.597] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
 [27Nov2024 20:46:42.597] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Naannoo (a6c38398-c00e-3764-baa4-f29ee5a5fbf8) successfully connected to voice chat
+[27Nov2024 20:59:34.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cafssterr: Gave 100 experience points to Cafssterr]
+[27Nov2024 20:59:38.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cafssterr: Gave 10000 experience points to Cafssterr]
+[27Nov2024 21:00:26.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cafssterr> entra el grupo
