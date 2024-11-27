@@ -413,6 +413,7 @@
       "minecraft:skeleton": "2024-11-26 00:49:35 +0000",
       "minecraft:spider": "2024-11-26 00:40:02 +0000",
       "minecraft:creeper": "2024-11-26 00:40:10 +0000",
+      "minecraft:zombified_piglin": "2024-11-27 23:17:44 +0000",
       "minecraft:wither_skeleton": "2024-11-27 22:58:47 +0000",
       "minecraft:enderman": "2024-11-26 00:55:26 +0000",
       "minecraft:zombie": "2024-11-26 00:48:45 +0000"
@@ -2255,6 +2256,18 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2024-11-27 23:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-11-27 23:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-11-27 23:25:22 +0000"
     },
     "done": true
   },
