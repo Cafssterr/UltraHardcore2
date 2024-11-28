@@ -2402,6 +2402,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-11-28 01:40:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-11-27 23:07:17 +0000"
@@ -2543,6 +2549,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2024-11-27 22:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2024-11-28 01:41:53 +0000"
     },
     "done": true
   },
