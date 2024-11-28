@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2024-11-28 00:32:24 +0000",
+      "minecraft:sunflower_plains": "2024-11-28 00:55:14 +0000",
       "minecraft:beach": "2024-11-26 01:00:21 +0000",
       "minecraft:stony_peaks": "2024-11-27 00:28:39 +0000",
       "minecraft:sparse_jungle": "2024-11-26 01:22:22 +0000",
@@ -2444,6 +2445,42 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2024-11-28 00:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2024-11-28 00:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-11-28 00:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-11-28 00:59:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-11-28 00:59:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-11-28 00:59:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-11-28 00:59:48 +0000"
     },
     "done": true
   },
