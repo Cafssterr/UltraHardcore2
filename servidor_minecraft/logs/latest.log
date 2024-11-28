@@ -66,3 +66,4 @@
 [28Nov2024 01:16:05.965] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/41395, l='ServerLevel[world]', x=-384.51, y=71.56, z=-736.56] died, message: 'Toolsmith was shot by Naannoo'
 [28Nov2024 01:18:20.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cafssterr: Set own game mode to Creative Mode]
 [28Nov2024 01:18:28.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cafssterr: Set own game mode to Survival Mode]
+[28Nov2024 01:23:45.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cafssterr has made the advancement [Hot Stuff]

@@ -2183,6 +2183,12 @@
     },
     "done": false
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-11-28 01:23:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/kill_dragon": {
     "criteria": {
       "killed_dragon": "2024-11-28 00:51:43 +0000"
