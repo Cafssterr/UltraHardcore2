@@ -1,1 +1,53 @@
 [28Nov2024 00:07:15.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cafssterr: Gave 100000 experience points to Cafssterr]
+[28Nov2024 00:12:49.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naannoo was slain by Cafssterr
+[28Nov2024 00:12:56.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naannoo> oxi
+[28Nov2024 00:12:58.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cafssterr: Teleported Naannoo to Cafssterr]
+[28Nov2024 00:16:26.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naannoo lost connection: Disconnected
+[28Nov2024 00:16:26.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naannoo left the game
+[28Nov2024 00:16:26.111] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Naannoo
+[28Nov2024 00:16:52.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cafssterr: Gave 100 experience points to Cafssterr]
+[28Nov2024 00:16:58.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cafssterr: Gave 100 experience points to Cafssterr]
+[28Nov2024 00:17:00.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Naannoo[/100.120.244.93:52226] logged in with entity id 25940 at (-384.8701455050375, 71.0, -706.5552261156822)
+[28Nov2024 00:17:00.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naannoo joined the game
+[28Nov2024 00:17:01.041] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Naannoo (18)
+[28Nov2024 00:17:01.043] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Naannoo
+[28Nov2024 00:17:02.910] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
+[28Nov2024 00:17:03.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
+[28Nov2024 00:17:03.913] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Naannoo (a6c38398-c00e-3764-baa4-f29ee5a5fbf8) successfully connected to voice chat
+[28Nov2024 00:18:55.754] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naannoo lost connection: Disconnected
+[28Nov2024 00:18:55.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naannoo left the game
+[28Nov2024 00:18:55.755] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Naannoo
+[28Nov2024 00:19:41.816] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Naannoo[/100.120.244.93:58257] logged in with entity id 26377 at (-387.51850020395926, 73.875, -705.1956536251846)
+[28Nov2024 00:19:41.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naannoo joined the game
+[28Nov2024 00:19:42.162] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Naannoo (18)
+[28Nov2024 00:19:42.167] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Naannoo
+[28Nov2024 00:19:44.379] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
+[28Nov2024 00:19:45.379] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
+[28Nov2024 00:19:45.379] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Naannoo (a6c38398-c00e-3764-baa4-f29ee5a5fbf8) successfully connected to voice chat
+[28Nov2024 00:22:34.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cafssterr has made the advancement [Take Aim]
+[28Nov2024 00:24:42.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naannoo has made the advancement [Take Aim]
+[28Nov2024 00:25:06.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cafssterr has made the advancement [Tactical Fishing]
+[28Nov2024 00:26:17.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naannoo has made the advancement [Tactical Fishing]
+[28Nov2024 00:37:11.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cafssterr has made the advancement [Eye Spy]
+[28Nov2024 00:37:26.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naannoo has made the advancement [Eye Spy]
+[28Nov2024 00:40:28.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3508ms or 70 ticks behind
+[28Nov2024 00:47:01.761] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naannoo lost connection: hjdp
+[28Nov2024 00:47:01.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naannoo left the game
+[28Nov2024 00:47:01.763] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Naannoo
+[28Nov2024 00:47:01.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Cafssterr: Kicked Naannoo: hjdp]
+[28Nov2024 00:47:01.806] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Nov2024 00:47:07.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Naannoo[/100.120.244.93:50766] logged in with entity id 34335 at (-1528.6405673697705, 35.0, -129.2016000596464)
+[28Nov2024 00:47:07.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naannoo joined the game
+[28Nov2024 00:47:07.788] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Naannoo (18)
+[28Nov2024 00:47:07.794] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Naannoo
+[28Nov2024 00:47:09.139] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
+[28Nov2024 00:47:10.141] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a6c38398-c00e-3764-baa4-f29ee5a5fbf8
+[28Nov2024 00:47:10.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Naannoo (a6c38398-c00e-3764-baa4-f29ee5a5fbf8) successfully connected to voice chat
+[28Nov2024 00:47:48.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cafssterr has made the advancement [The End?]
+[28Nov2024 00:47:50.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naannoo has made the advancement [The End?]
+[28Nov2024 00:47:53.314] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[28Nov2024 00:47:53.316] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[28Nov2024 00:47:54.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naannoo moved too quickly! 1631.073548538459,14.464159374955443,130.15203023614987
+[28Nov2024 00:47:54.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5571ms or 111 ticks behind
+[28Nov2024 00:49:26.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naannoo moved too quickly! -0.9028081068951792,-10.854658122346834,0.39217256024391745
+[28Nov2024 00:51:43.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cafssterr has made the advancement [Free the End]

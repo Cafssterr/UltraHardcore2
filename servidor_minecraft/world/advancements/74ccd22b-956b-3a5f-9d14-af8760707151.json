@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2024-11-28 00:32:24 +0000",
       "minecraft:bamboo_jungle": "2024-11-26 01:36:04 +0000",
       "minecraft:savanna_plateau": "2024-11-27 00:42:28 +0000",
       "minecraft:beach": "2024-11-26 01:00:27 +0000",
@@ -17,7 +18,10 @@
       "minecraft:stony_shore": "2024-11-26 01:12:40 +0000",
       "minecraft:forest": "2024-11-26 01:20:31 +0000",
       "minecraft:jungle": "2024-11-26 01:29:15 +0000",
+      "minecraft:ocean": "2024-11-28 00:27:16 +0000",
+      "minecraft:flower_forest": "2024-11-28 00:29:36 +0000",
       "minecraft:deep_dark": "2024-11-27 00:36:28 +0000",
+      "minecraft:meadow": "2024-11-28 00:34:03 +0000",
       "minecraft:savanna": "2024-11-26 00:15:28 +0000",
       "minecraft:plains": "2024-11-26 00:15:40 +0000"
     },
@@ -416,7 +420,9 @@
       "minecraft:wither": "2024-11-27 23:29:15 +0000",
       "minecraft:zombified_piglin": "2024-11-27 23:17:44 +0000",
       "minecraft:wither_skeleton": "2024-11-27 22:58:47 +0000",
+      "minecraft:piglin": "2024-11-28 00:41:44 +0000",
       "minecraft:enderman": "2024-11-26 00:55:26 +0000",
+      "minecraft:endermite": "2024-11-28 00:50:38 +0000",
       "minecraft:zombie": "2024-11-26 00:48:45 +0000"
     },
     "done": false
@@ -2139,15 +2145,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-11-28 00:40:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2024-11-27 22:58:53 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-11-28 00:40:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-11-28 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-28 00:40:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2024-11-27 23:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-11-28 00:29:44 +0000"
     },
     "done": true
   },
@@ -2161,9 +2197,16 @@
     "criteria": {
       "minecraft:nether_wastes": "2024-11-27 23:04:29 +0000",
       "minecraft:soul_sand_valley": "2024-11-27 23:01:29 +0000",
-      "minecraft:basalt_deltas": "2024-11-27 22:54:53 +0000"
+      "minecraft:basalt_deltas": "2024-11-27 22:54:53 +0000",
+      "minecraft:warped_forest": "2024-11-28 00:41:02 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-28 00:40:07 +0000"
+    },
+    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -2171,9 +2214,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-28 00:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-28 00:40:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-11-27 23:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-28 00:40:07 +0000"
     },
     "done": true
   },
@@ -2195,15 +2256,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2024-11-28 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-28 00:40:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-11-27 23:07:17 +0000"
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "pufferfish_bucket": "2024-11-28 00:25:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-28 00:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-11-28 00:29:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-11-27 22:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-11-28 00:22:34 +0000"
     },
     "done": true
   },
@@ -2219,15 +2316,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-11-28 00:40:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2024-11-27 23:07:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-11-28 00:29:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2024-11-27 23:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-11-28 00:29:45 +0000"
     },
     "done": true
   },
@@ -2249,9 +2364,27 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-11-28 00:37:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-11-27 22:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-11-28 00:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-11-28 00:31:33 +0000"
     },
     "done": true
   },
@@ -2264,6 +2397,12 @@
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2024-11-27 23:29:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-11-28 00:43:34 +0000"
     },
     "done": true
   },
@@ -2297,6 +2436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-11-28 00:40:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2024-11-27 23:25:22 +0000"
@@ -2306,6 +2451,18 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2024-11-27 23:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-11-28 00:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-11-28 00:40:40 +0000"
     },
     "done": true
   },
@@ -2324,6 +2481,12 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2024-11-27 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-11-28 00:40:07 +0000"
     },
     "done": true
   },
@@ -2351,9 +2514,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-11-28 00:40:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2024-11-27 23:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-11-28 00:40:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-11-28 00:47:48 +0000"
     },
     "done": true
   },
